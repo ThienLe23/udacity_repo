@@ -9,3 +9,7 @@ def days_until_launch(current_day, launch_day):
     return launch_day - current_day
 
 # some additional code
+
+# some additional code
+
+    # additional code b
