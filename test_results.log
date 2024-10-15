@@ -1,0 +1,7 @@
+root - ERROR - Failed - denominator is zero
+root - INFO - SUCCESS - Results : 1.6666666666666665
+root - INFO - SUCCESS - Results : -1.8095238095238093
+root - ERROR - Failed - input must be float
+root - ERROR - Failed - text argument must be a string
+root - INFO - SUCCESS - number of words are 5
+root - INFO - SUCCESS - number of words are 1
