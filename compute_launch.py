@@ -4,7 +4,7 @@ def days_until_launch(current_day, launch_day):
     current_day (int) - current day in integer
     launch_day (int) - launch day in integer
     """
-    if current_day > launch_day:
+    if current_day >= launch_day:
         return 0
     return launch_day - current_day
 
